@@ -4,3 +4,5 @@ https.get(API, res => {
     console.log(res.statusCode)
 })
 console.log('conectando API')
+
+//comentário para atualização de commit
